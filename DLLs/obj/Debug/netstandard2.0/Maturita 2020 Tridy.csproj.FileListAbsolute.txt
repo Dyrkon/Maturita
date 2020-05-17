@@ -1,0 +1,8 @@
+D:\Programovani\C#\Maturita 2020 Tridy\bin\Debug\netstandard2.0\Maturita 2020 Tridy.deps.json
+D:\Programovani\C#\Maturita 2020 Tridy\bin\Debug\netstandard2.0\Maturita 2020 Tridy.dll
+D:\Programovani\C#\Maturita 2020 Tridy\bin\Debug\netstandard2.0\Maturita 2020 Tridy.pdb
+D:\Programovani\C#\Maturita 2020 Tridy\obj\Debug\netstandard2.0\Maturita 2020 Tridy.csprojAssemblyReference.cache
+D:\Programovani\C#\Maturita 2020 Tridy\obj\Debug\netstandard2.0\Maturita 2020 Tridy.AssemblyInfoInputs.cache
+D:\Programovani\C#\Maturita 2020 Tridy\obj\Debug\netstandard2.0\Maturita 2020 Tridy.AssemblyInfo.cs
+D:\Programovani\C#\Maturita 2020 Tridy\obj\Debug\netstandard2.0\Maturita 2020 Tridy.dll
+D:\Programovani\C#\Maturita 2020 Tridy\obj\Debug\netstandard2.0\Maturita 2020 Tridy.pdb
