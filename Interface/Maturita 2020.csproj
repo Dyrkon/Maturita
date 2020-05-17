@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Maturita_2020</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Maturita 2020 Tridy">
+      <HintPath>..\..\Maturita 2020 Tridy\obj\Debug\netstandard2.0\Maturita 2020 Tridy.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

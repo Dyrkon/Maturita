@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Maturita 2020/1.0.0": {
+        "dependencies": {
+          "Maturita 2020 Tridy": "1.0.0.0"
+        },
+        "runtime": {
+          "Maturita 2020.dll": {}
+        }
+      },
+      "Maturita 2020 Tridy/1.0.0.0": {
+        "runtime": {
+          "Maturita 2020 Tridy.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maturita 2020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Maturita 2020 Tridy/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
